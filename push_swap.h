@@ -6,14 +6,13 @@
 /*   By: asalmi <asalmi@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/14 00:02:15 by asalmi            #+#    #+#             */
-/*   Updated: 2024/05/24 18:31:31 by asalmi           ###   ########.fr       */
+/*   Updated: 2024/05/27 16:24:54 by asalmi           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PUSH_SWAP_H
 # define PUSH_SWAP_H
 
-# include <stdio.h>
 # include <stdlib.h>
 # include <unistd.h>
 # include <limits.h>

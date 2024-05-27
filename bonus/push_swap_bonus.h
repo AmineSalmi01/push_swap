@@ -6,7 +6,7 @@
 /*   By: asalmi <asalmi@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/21 21:52:44 by asalmi            #+#    #+#             */
-/*   Updated: 2024/05/23 21:30:38 by asalmi           ###   ########.fr       */
+/*   Updated: 2024/05/27 16:25:01 by asalmi           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,6 @@
 
 # include "./get_next_line/get_next_line.h"
 # include <limits.h>
-# include <stdio.h>
 # include <unistd.h>
 # include <stdlib.h>
 
